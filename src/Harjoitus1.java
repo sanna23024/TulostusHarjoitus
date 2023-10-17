@@ -7,7 +7,7 @@ public class Harjoitus1 {
 		
 		System.out.println(otsikko);
 		
-		String tekija = "Sanna";
+		String tekija = "Milla";
 		
 		System.out.println("Ohjelman tekijä: " + tekija);
 		
