@@ -11,7 +11,7 @@ public class Harjoitus1 {
 		
 		System.out.println("Ohjelman tekijä: " + tekija);
 		
-		double luku1 = 5;
+		double luku1 = 3;
 		double luku2 = 6;
 		
 		System.out.println("Luku1-muuttujan arvo on " + luku1);
